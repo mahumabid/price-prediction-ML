@@ -1,6 +1,6 @@
 # Predicting Prices in Skincare Using Advanced Machine Learning
 
-![giphysk](https://github.com/mahumabid/price-prediction-ML/assets/122308796/56917c08-c6b3-4285-a23f-acb67046e7fa)
+ ![giphysk](https://github.com/mahumabid/price-prediction-ML/assets/122308796/56917c08-c6b3-4285-a23f-acb67046e7fa)
 
 ## Overview
 According to Clarkston Consulting, the global skincare market was worth $146 billion in 2021 and is expected to grow to $207.22 billion by 2028. Skincare in particular has seen an increased interest as the culture has shifted away from the glam beauty standards of the recession-era 2000s to embrace a more "natural" beauty.
@@ -9,6 +9,10 @@ My stakeholder, Inner Glow Inc., wants to make their mark on the skincare indust
 
 # The Data
 I use data from NoxMoon's "Inside Beauty" project, scraped from Beautypedia and Paula’s choice websites by NoxMoon, and data I scraped myself from the Dermstore. The two datasets include product names, brands, prices, ingredients, size, and product type. There are over 7000 products at the end of cleaning. Features include one-hot encoded "special" ingredients (i.e. not ones that appear in every single product but do in a good amount of them), and number of active and inactive ingredients, among others.
+
+![categories2](https://github.com/mahumabid/price-prediction-ML/assets/122308796/643e3224-cbbb-4b4c-a066-2224b7cad4b1)
+        ![brands by price](https://github.com/mahumabid/price-prediction-ML/assets/122308796/613f619f-063c-4059-a892-08893f26411a)
+
 
 
 ## Modeling and Results
