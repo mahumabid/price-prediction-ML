@@ -18,8 +18,14 @@ I use data from NoxMoon's "Inside Beauty" project, scraped from Beautypedia and 
 ## Modeling and Results
 After tuning a series of neural networks, using XGBoost, using grid search to tune XGBoost, and stacking Random Forest, SVR, and XGBoost, I find in the end that the untuned XGBoost does the best with the data, scoring an MAE on the test around $13. Given the spread of product prices, this doesn't seem way off base.
 
+![Modelling by result](https://github.com/mahumabid/price-prediction-ML/assets/122308796/d20845d5-8a8e-49b7-9c8d-978f7e66107e)
+
+
 
 Features engineering determines certain ingredients, like Urea, have a marginal level of importance when it comes to price.
+
+![features_pkl](https://github.com/mahumabid/price-prediction-ML/assets/122308796/ace9a348-8977-4f25-8c99-e3268c739632)
+
 
 ## Recommendations and Next Steps
 The most often overpriced brands are La Prairie, Dr. Brandt, and Shiseido, while the most underpriced ones are Neutrogena, Shiseido, and Mary Kay. Therefore, Inner Beauty Inc. should try to dupe the overpriced brands' products with prices that are on average higher than the underpriced ones.
