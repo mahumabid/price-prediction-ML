@@ -1,5 +1,6 @@
 # Predicting Prices in Skincare Using Advanced Machine Learning
-         
+
+![giphysk](https://github.com/mahumabid/price-prediction-ML/assets/122308796/56917c08-c6b3-4285-a23f-acb67046e7fa)
 
 ## Overview
 According to Clarkston Consulting, the global skincare market was worth $146 billion in 2021 and is expected to grow to $207.22 billion by 2028. Skincare in particular has seen an increased interest as the culture has shifted away from the glam beauty standards of the recession-era 2000s to embrace a more "natural" beauty.
