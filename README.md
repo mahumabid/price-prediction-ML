@@ -36,9 +36,9 @@ I put all my findings together into the Streamlit app SuperDuper which offers us
 
 ## Repository Structure
 
-├── data
-├── .gitignore
-├── Price-Prediction-NN.ipynb
-├── README.md
-├── Untitled.ipynb
-└── presentation.pdf
+- data/
+- .gitignore
+- Price-Prediction-NN.ipynb
+- README.md
+- Untitled.ipynb
+- presentation.pdf
