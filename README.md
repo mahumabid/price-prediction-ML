@@ -35,9 +35,10 @@ For next steps, I'd like to dig more deeply into the ingredients to determine wh
 I put all my findings together into the Streamlit app SuperDuper which offers users the chance to dupe their favorite high-end products and find cheaper alternatives that are at the ingredient-level similar.
 
 ## Repository Structure
+
 ├── data
 ├── .gitignore
 ├── Price-Prediction-NN.ipynb
 ├── README.md
 ├── Untitled.ipynb
-├── presentation.pdf
+└── presentation.pdf
