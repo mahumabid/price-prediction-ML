@@ -40,5 +40,5 @@ I put all my findings together into the Streamlit app SuperDuper which offers us
 - .gitignore
 - Price-Prediction-NN.ipynb
 - README.md
+- Skin Care presentation pdf (2).pdf
 - Untitled.ipynb
-- presentation.pdf
